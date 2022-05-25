@@ -1,0 +1,26 @@
+#welcome {
+  width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: 'regular';
+}
+
+#welcome a {
+  display: block;
+  width: 60px;
+  margin: auto;
+  text-align: center;
+  font-family: 'bold';
+  font-size: 100%;
+  padding: 5px;
+  border-radius: 10px;
+  border: 1px solid #f22613;
+  background-color: #c44d57d2;
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+#welcome a:hover {
+  width: 65px;
+}
